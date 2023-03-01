@@ -1,0 +1,35 @@
+{
+    // Используйте IntelliSense, чтобы узнать о возможных атрибутах.
+    // Наведите указатель мыши, чтобы просмотреть описания существующих атрибутов.
+    // Для получения дополнительной информации посетите: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch launch",
+            "request": "launch",
+            "mainClass": "launch",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch ff",
+            "request": "launch",
+            "mainClass": "ff",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch Homework_task_2",
+            "request": "launch",
+            "mainClass": "Homeworks.Homework_2.Homework_task_2",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}

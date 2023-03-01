@@ -2,7 +2,7 @@ package Homeworks.Homework_1;
 import java.util.Scanner;
 
 
-public class Homework_1 {
+class  Homework_tast_1 {
     private static Scanner input = new Scanner(System.in);
     public static void main(String[] args) {
         int len =getNumberByUser("Введите колличество элементов последовательности треугольных чисел: ");
