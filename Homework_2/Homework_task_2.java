@@ -1,4 +1,4 @@
-package Homeworks.Homework_2;
+package Homework_2;
 import java.io.File;
 import java.io.PrintWriter;
 import java.sql.ResultSet;

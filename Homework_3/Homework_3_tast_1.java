@@ -1,7 +1,8 @@
-package Homeworks.Homework_3;
+package Homework_3;
 import java.util.Arrays;
 
-public class Main {
+
+public class Homework_3_tast_1 {
     public static int[] mergeSort(int[] sortArr) {
         int[] buffer1 = Arrays.copyOf(sortArr, sortArr.length);
         int[] buffer2 = new int[sortArr.length];

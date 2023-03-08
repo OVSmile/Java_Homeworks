@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Homework_3_tast_1",
+            "request": "launch",
+            "mainClass": "Homework_3.Homework_3_tast_1",
+            "projectName": "Homeworks_9114d5b7"
+        },
+        {
+            "type": "java",
+            "name": "Homework_tast_1",
+            "request": "launch",
+            "mainClass": "Homework_1.Homework_tast_1",
+            "projectName": "Homeworks_9114d5b7"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "Homework_3.Main",
