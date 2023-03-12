@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Homework_4_Heap_Sort",
+            "request": "launch",
+            "mainClass": "Homework_4.Homework_4_Heap_Sort",
+            "projectName": "Homeworks_9114d5b7"
+        },
+        {
+            "type": "java",
             "name": "Homework_3_tast_1",
             "request": "launch",
             "mainClass": "Homework_3.Homework_3_tast_1",
